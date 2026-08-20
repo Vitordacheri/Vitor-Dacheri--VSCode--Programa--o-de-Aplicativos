@@ -9,3 +9,7 @@ HTML.
 ## Como executar
 
 Abra meu arquivo index.html em qualquer navdgador.
+
+## Autoria 
+
+Elaborado por Vitor Dacheri
